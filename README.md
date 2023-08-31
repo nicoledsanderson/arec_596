@@ -47,7 +47,7 @@ Now that you've created and published your repository, you're ready to make chan
 
 1. To launch your external editor from within GitHub Desktop, in the "GitHub Desktop" menu bar, select Repository, then click Open in EDITOR. For more information, see "Configuring a default editor in GitHub Desktop."
 
-![Screenshot of a menu bar on a Mac. Under the open "Repository" dropdown menu, a cursor hovers over "Open in Visual Studio Code", highlighted in blue.]
+![Screenshot of a menu bar on a Mac. Under the open "Repository" dropdown menu, a cursor hovers over "Open in Visual Studio Code", highlighted in blue.](./images/open-in-editor.webp)
 
 2. Make some changes to the README.md file that you previously created. You can add information that describes your project, like what it does and why it is useful. When you are satisfied with your changes, save them in your text editor.
 
@@ -70,11 +70,11 @@ Now that you've created and published your repository, you're ready to make chan
 
 7. In the window to the right of the Changes view, you'll see suggestions for actions you can do next. To open the repository on GitHub in your browser, click View on GitHub.
 
-![Screenshot of the "No local changes" screen. In a list of suggestions, a button, labeled "View on GitHub", is highlighted with an orange outline.]
+![Screenshot of the "No local changes" screen. In a list of suggestions, a button, labeled "View on GitHub", is highlighted with an orange outline.](./images/available-actions.webp)
 
 8. In your browser, click 2 commits. You'll see a list of the commits in this repository on GitHub. The first commit should be the commit you just made in GitHub Desktop.
 
-![Screenshot of the repository page on GitHub. Above the list of files and next to a clock icon, a link, labeled "2 commits", is outlined in orange.]
+![Screenshot of the repository page on GitHub. Above the list of files and next to a clock icon, a link, labeled "2 commits", is outlined in orange.](./images/click-two-commits.webp)
 
 ## Conclusion
 You've now created a repository, published the repository to GitHub, made a commit, and pushed your changes to GitHub. You can follow this same workflow when contributing to other projects that you create or collaborate on.
