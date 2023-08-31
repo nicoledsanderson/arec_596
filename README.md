@@ -12,7 +12,7 @@ In the file menu at the top of the screen, you can access settings and actions t
 ### The GitHub Desktop repository bar
 At the top of the GitHub Desktop app, you will see a bar that shows the current state of your repository.
 
-Screenshot of the GitHub Desktop app. A bar displaying details for the "hello-world" repository spans the top of the window, and is outlined in orange.
+![Screenshot of the GitHub Desktop app. A bar displaying details for the "hello-world" repository spans the top of the window, and is outlined in orange.](./images/explore-github-desktop.webp)
 
 - Current repository shows the name of the repository you're working on. You can click Current repository to switch to a different repository in GitHub Desktop.
 - Current branch shows the name of the branch you're working on. You can click Current branch to view all the branches in your repository, switch to a different branch, or create a new branch. Once you create pull requests in your repository, you can also view these by clicking on Current branch.
