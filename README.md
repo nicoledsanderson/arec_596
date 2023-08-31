@@ -35,7 +35,6 @@ Screenshot of the repository bar. A button, labeled "Publish repository", is hig
   - GitHub Desktop automatically fills the "Name" and "Description" fields with the information you entered when you created the repository.
   - Keep this code private lets you control who can view your project. If you leave this option unselected, other users on GitHub will be able to view your code. If you select this option, your code will not be publicly available.
   - The Organization drop-down menu, if present, lets you publish your repository to a specific organization that you belong to on GitHub.
-
 1. Click Publish Repository.
 1. You can access the repository on GitHub.com from within GitHub Desktop. In the file menu, click Repository, then click View on GitHub. This will take you directly to the repository in your default browser.
 
