@@ -37,6 +37,6 @@ Screenshot of the repository bar. A button, labeled "Publish repository", is hig
   - The Organization drop-down menu, if present, lets you publish your repository to a specific organization that you belong to on GitHub.
 
   a. Click Publish Repository.
-  b. You can access the repository on GitHub.com from within GitHub Desktop. In the file menu, click Repository, then click View on GitHub. This will take you directly to the repository in your default browser.
+  a. You can access the repository on GitHub.com from within GitHub Desktop. In the file menu, click Repository, then click View on GitHub. This will take you directly to the repository in your default browser.
 
 ## Part 2: Making, committing, and pushing changes
